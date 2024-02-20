@@ -1,5 +1,7 @@
-I'm Rodrigo, but I also go by @rodrgo, [@rms](https://qui.ne/rms), or [@r@dms](https://twitter.com/r@dms) I'm into maths, data, and economics.
-I'm founder of (https://github.com/cod-master/) a platform to help developers monetise their experience & reputation
+I'm Salman, but I also go by @salmon, [@rms](https://quine.sh/user/cog-master), 
+                                     or [@r@dms](https://quine.sh/user/cog-master)                
+
+I'm of a platform to help developers and to change something in the society
 
 <div align="center">
 <table>
