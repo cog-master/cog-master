@@ -14,12 +14,5 @@
 
 </td>
 </tr>
-<tr>
-<td>
-<a href="https://quine.sh" target="_blank">
-<img src="      [![cog-master's GitHub | Stats](https://stats.quine.sh/cog-master/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=cog-master)       " alt="Torch <3" width="400px">
-</a>
-</td>
-</tr>
 </table>
 </div>
