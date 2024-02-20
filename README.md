@@ -1,4 +1,4 @@
-✊I'm Salman, but I also go by @salmon, https://twitter.com/salunata123, or https://quine.sh/user/cog-master            
+✊I'm Salman, but I also go by @salmon, https://twitter.com/salunata123         
 
 🔥I'm into AI and Aws stuff
 
