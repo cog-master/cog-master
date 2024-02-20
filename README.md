@@ -1,7 +1,8 @@
-I'm Salman, but I also go by @salmon, https://twitter.com/salunata123, 
-or       https://quine.sh/user/cog-master                   
+✊I'm Salman, but I also go by @salmon, https://twitter.com/salunata123, or https://quine.sh/user/cog-master            
 
-I'm of a platform to help developers and to change something in the society
+🔥I'm into AI and Aws stuff
+
+✌️I run a platform to help developers and to change something in the society
 
 <div align="center">
 <table>
