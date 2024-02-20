@@ -5,11 +5,12 @@ I'm of a platform to help developers and to change something in the society
 
 <div align="center">
 <table>
-<tr>
-<td rowspan=2>
-<a href="https://quine.sh" target="_blank">
-<img src="     [![cog-master's GitHub | Dependencies](https://stats.quine.sh/cog-master/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=cog-master)     "My GitHub Stats" width="300px">
+   <tr>
+     <td rowspan=2>
+       <a href="https://quine.sh?utm_source=widgets&utm_campaign=cog-master" target="_blank">
+  <img src="https://stats.quine.sh/cog-master/dependencies?theme=dark" alt="My GitHub Stats" width="300px">
 </a>
+
 </td>
 </tr>
 <tr>
